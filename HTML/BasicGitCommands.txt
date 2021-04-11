@@ -1,0 +1,36 @@
+ 501  cd DevOPs_Project/
+  502  ls
+  503  cd  HTML/
+  504  ls
+  505  cd ..
+  506  clear
+  507  git status
+  508  git add .
+  509  git status
+  510  git commit -m "new html file added"
+  511  git config
+  512  git configure
+  513  git config --list
+  514  git config --global user.name "Gowtham"
+  515  git config --global user.email "mekagowtham1996@gmail.com"
+  516  git status
+  517  git add .
+  518  git status
+  519  git commit -m "integrated Config commands"
+  520  git status
+  521  git status
+  522  git status
+  523  git status
+  524  git push
+  525  clear
+  526  git status
+  527  git pull
+  528  git log
+  529  git pull
+  530  git status
+  531  git log
+  532  git pull
+  533  git status
+  534  git log --oneline
+  535  git history
+  536  history
