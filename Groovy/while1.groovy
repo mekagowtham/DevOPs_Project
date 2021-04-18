@@ -3,7 +3,7 @@ class DM1{
         int count = -1;
         while(count>-10){
             println(count);
-            count--;
+            count++;
 
 
         }

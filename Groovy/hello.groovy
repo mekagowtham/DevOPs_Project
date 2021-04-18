@@ -16,8 +16,8 @@ class Example{
         Using simple println
         statement to print console output
         */ 
-        def x = 25
-        println("Hello welcome to Groovy coding learning")
+        def x = 25;
+        println("Hello welcome to Groovy coding learning");
     }
 
 }
